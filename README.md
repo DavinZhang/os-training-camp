@@ -10,6 +10,9 @@ This repo is aimed to recording the OS learning process, The OS is based on Rust
 ## Some key Links
 
 * Project Official Site：[https://github.com/LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023)
+* Assignment Repo
+    * [Phase 1 Repo](https://github.com/LearningOS/rust-rustlings-DavinZhang)
+    * [phase 2 Repo](https://github.com/LearningOS/2023s-rcore-DavinZhang)
 * Phase 1：2023.04.01～2023.05.01）[阶段1链接](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-1.md)
 * Phase 2：[阶段2链接](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-2.md)
 * Phase 3（Optional）：[阶段3链接](https://github.com/LearningOS/oscomp-kernel-training)
