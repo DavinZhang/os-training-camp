@@ -10,6 +10,11 @@ This repo is aimed to recording the OS learning process, The OS is based on Rust
 ## Some key Links
 
 * Project Official Site：[https://github.com/LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023)
+* Rust Link
+    * [Rustlings Link](https://github.com/LearningOS/rustlings-template)
+    * Rust Book: [Rust Doc](https://doc.rust-lang.org/book/index.html)
+    * Rust Book(Chinese): [Rust Doc](https://kaisery.github.io/trpl-zh-cn/title-page.html)
+    * Rust Learn by Example: [Doc](https://doc.rust-lang.org/rust-by-example/index.html)
 * Assignment Repo
     * [Phase 1 Repo](https://github.com/LearningOS/rust-rustlings-DavinZhang)
     * [phase 2 Repo](https://github.com/LearningOS/2023s-rcore-DavinZhang)
@@ -27,6 +32,7 @@ This repo is aimed to recording the OS learning process, The OS is based on Rust
         * C: https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/
             * [Invitation Link](https://classroom.github.com/a/5vRW-e_W)
 * [Learning Resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
+* Phase 1 
 
 ## History
 
@@ -55,6 +61,26 @@ Meeting Record：https://meeting.tencent.com/v2/cloud-record/share?id=2cd517b0-0
 
 * Gathering the material about this training camp
 * Init this repo and organize the information
+
+## 2023-03-27
+
+* Rust Installation
+
+open Link `https://rustup.rs/`
+
+execute
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+* Rustlings Installation
+
+```
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
+```
+
+* Supplement more links like books and online exercises
 
 
 
