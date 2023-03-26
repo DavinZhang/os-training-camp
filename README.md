@@ -44,9 +44,11 @@ This repo is aimed to recording the OS learning process, The OS is based on Rust
 
 * Attend the project kick-off meeting
 
+```
 Topic: 2023 OS2春夏季训练营启动会
 Start Time: 2023-3-25 11:00
 Meeting Record：https://meeting.tencent.com/v2/cloud-record/share?id=2cd517b0-0d9a-4139-b3e0-2af4c8cdbd67&from=3
+```
 
 
 ## 2023-03-26
