@@ -56,7 +56,6 @@ Start Time: 2023-3-25 11:00
 Meeting Record：https://meeting.tencent.com/v2/cloud-record/share?id=2cd517b0-0d9a-4139-b3e0-2af4c8cdbd67&from=3
 ```
 
-
 ## 2023-03-26
 
 * Gathering the material about this training camp
@@ -81,7 +80,11 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ```
 
 * Supplement more links like books and online exercises
-
+* Rust: Learn to write a hello world 
+* Rust: Learn to use cargo (new, build, run, check, test ...)
+* `cargo build --release` can optimize the project before release
+* more specific docs about Cargo: [Cargo Docs](https://doc.rust-lang.org/cargo/index.html)
+* completed 5 rustling exercises
 
 
 
