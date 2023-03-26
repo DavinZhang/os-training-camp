@@ -20,10 +20,10 @@ This repo is aimed to recording the OS learning process, The OS is based on Rust
         * [Invitation Link](https://classroom.github.com/a/H1iQ2GNX)
     * OS Kernel Design&Implementation: 
         * Rust: https://learningos.github.io/2023S-OS-rCore-Classroom-Rank-list/
-            * [Invitation Link](https://github.com/LearningOS/rust-based-os-comp2023#:~:text=rCore%20Tutorial%20ClassRoom%E9%82%80%E8%AF%B7%E9%93%BE%E6%8E%A5)
+            * [Invitation Link](https://classroom.github.com/a/AFBsVzHi)
         * C: https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/
             * [Invitation Link](https://classroom.github.com/a/5vRW-e_W)
-* [Learning Resources](https://github.com/LearningOS/rust-based-os-comp2023#:~:text=%E9%82%80%E8%AF%B7%E9%93%BE%E6%8E%A5-,Learning%20Resource,-%EF%BC%88%E8%AE%AD%E7%BB%83%E8%90%A5%E5%AD%A6%E4%B9%A0)
+* [Learning Resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
 
 ## History
 
