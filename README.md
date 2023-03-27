@@ -85,7 +85,12 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * `cargo build --release` can optimize the project before release
 * more specific docs about Cargo: [Cargo Docs](https://doc.rust-lang.org/cargo/index.html)
 * completed 8 rustling exercises
+* Too busy in the daytime, even have a dinner with colegues at night
 
+## 2023-03-28
+
+* Learn to write a guessing game [Done]
+* solved 1 function problem
 
 
 
