@@ -92,6 +92,20 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learn to write a guessing game [Done]
 * solved 1 function problem
 
+## 2023-03-29
+
+* Learn Variables and Mutability
+* Learn Data Types
+* Learn Functions
+* Learn Comments
+* Learn Control Flow
+* Complete 4 "function" quizzes
+* Complete 2 "if" quizzes
+* Complete quiz1.rs~
+* Complete 6 "primitive types" quizzes
+* Learn Vec
+* Complete 2 "vec" quizzes
+
 
 
 
