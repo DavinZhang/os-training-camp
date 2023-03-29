@@ -106,7 +106,14 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learn Vec
 * Complete 2 "vec" quizzes
 
+## 2023-03-30
 
+* Learned ownership
+* Learned reference and borrowing
+* Learned Slice type
+* Complete 6 move sematic quizzes
+* Learned 5.1-5.3 about structs
+* Completed 3 struct quezzes
 
 
 
