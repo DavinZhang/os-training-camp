@@ -124,4 +124,6 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Start to learn crate and modules
 * Complete 1 module test
 
+## 2023-04-01
 
+* Learned 2 crates sections
