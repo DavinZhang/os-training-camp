@@ -126,4 +126,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 ## 2023-04-01
 
-* Learned 2 crates sections
+* Learned 4 crates sections
