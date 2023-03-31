@@ -119,11 +119,13 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-03-31
 
 * Learned enums
-* Completed 3 enums test
-* Completed 4 string tests
+* Completed 3 enums quizzes
+* Completed 4 string quizzes
 * Start to learn crate and modules
-* Complete 1 module test
+* Complete 1 module quizze
 
 ## 2023-04-01
 
 * Learned 5 crates sections
+* Complete 2 module quizzes
+
