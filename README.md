@@ -128,5 +128,5 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned 5 crates sections
 * Complete 2 module quizzes
-* Completed 2 hashmap quizzes
+* Completed 3 hashmap quizzes
 
