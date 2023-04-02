@@ -133,3 +133,11 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-02
 
 * Complete quiz2
+* Completed 3 options quizzes
+* Learn error handling chapter
+* Completed 3 error handling quizzes
+
+## 2023-04-03
+
+* Completed 3 left error handling quizzes
+
