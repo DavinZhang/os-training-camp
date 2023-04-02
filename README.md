@@ -84,7 +84,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Rust: Learn to use cargo (new, build, run, check, test ...)
 * `cargo build --release` can optimize the project before release
 * more specific docs about Cargo: [Cargo Docs](https://doc.rust-lang.org/cargo/index.html)
-* completed 8 rustling exercises
+* Completed 8 rustling exercises
 * Too busy in the daytime, even have a dinner with colegues at night
 
 ## 2023-03-28
@@ -99,19 +99,19 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learn Functions
 * Learn Comments
 * Learn Control Flow
-* Complete 4 "function" quizzes
-* Complete 2 "if" quizzes
-* Complete quiz1.rs~
-* Complete 6 "primitive types" quizzes
+* Completed 4 "function" quizzes
+* Completed 2 "if" quizzes
+* Completed quiz1.rs~
+* Completed 6 "primitive types" quizzes
 * Learn Vec
-* Complete 2 "vec" quizzes
+* Completed 2 "vec" quizzes
 
 ## 2023-03-30
 
 * Learned ownership
 * Learned reference and borrowing
 * Learned Slice type
-* Complete 6 move sematic quizzes
+* Completed 6 move sematic quizzes
 * Learned 5.1-5.3 about structs
 * Completed 3 struct quezzes
 
@@ -122,17 +122,17 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Completed 3 enums quizzes
 * Completed 4 string quizzes
 * Start to learn crate and modules
-* Complete 1 module quizze
+* Completed 1 module quizze
 
 ## 2023-04-01
 
 * Learned 5 crates sections
-* Complete 2 module quizzes
+* Completed 2 module quizzes
 * Completed 3 hashmap quizzes
 
 ## 2023-04-02
 
-* Complete quiz2
+* Completed quiz2
 * Completed 3 options quizzes
 * Learn error handling chapter
 * Completed 3 error handling quizzes
@@ -140,4 +140,5 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-03
 
 * Completed 3 left error handling quizzes
+* Completed 1 generics quiz
 
