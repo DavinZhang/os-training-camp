@@ -130,3 +130,6 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Complete 2 module quizzes
 * Completed 3 hashmap quizzes
 
+## 2023-04-02
+
+* Complete quiz2
