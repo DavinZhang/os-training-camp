@@ -145,4 +145,5 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-04
 
 * Learned generics
+* Learned trait
 
