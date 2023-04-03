@@ -142,3 +142,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Completed 3 left error handling quizzes
 * Completed 1 generics quiz
 
+## 2023-04-04
+
+* Learned generics
+
