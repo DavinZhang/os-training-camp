@@ -83,83 +83,84 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Rust: Learn to write a hello world 
 * Rust: Learn to use cargo (new, build, run, check, test ...)
 * `cargo build --release` can optimize the project before release
-* more specific docs about Cargo: [Cargo Docs](https://doc.rust-lang.org/cargo/index.html)
-* Completed 8 rustling exercises
-* Too busy in the daytime, even have a dinner with colegues at night
+* more specific docs about `Cargo`: [Cargo Docs](https://doc.rust-lang.org/cargo/index.html)
+* Completed 8 `rustling` exercises
 
 ## 2023-03-28
 
-* Learn to write a guessing game [Done]
-* solved 1 function problem
+* Learn to write a `guessing game` [Done]
+* solved 1 `function` problem
 
 ## 2023-03-29
 
-* Learn Variables and Mutability
-* Learn Data Types
-* Learn Functions
-* Learn Comments
-* Learn Control Flow
-* Completed 4 "function" quizzes
-* Completed 2 "if" quizzes
-* Completed quiz1.rs~
-* Completed 6 "primitive types" quizzes
+* Learn `Variables and Mutability`
+* Learn `Data Types`
+* Learn `Functions`
+* Learn `Comments`
+* Learn `Control Flow`
+* Completed 4 `function` quizzes
+* Completed 2 `if` quizzes
+* Completed `quiz1`
+* Completed 6 `primitive types` quizzes
 * Learn Vec
-* Completed 2 "vec" quizzes
+* Completed 2 `vec` quizzes
 
 ## 2023-03-30
 
-* Learned ownership
-* Learned reference and borrowing
-* Learned Slice type
-* Completed 6 move sematic quizzes
-* Learned 5.1-5.3 about structs
-* Completed 3 struct quezzes
+* Learned `ownership`
+* Learned `reference and borrowing`
+* Learned `Slice` type
+* Completed 6 `move sematic` quizzes
+* Learned 5.1-5.3 about `structs`
+* Completed 3 `struct` quizzes
 
 
 ## 2023-03-31
 
 * Learned enums
-* Completed 3 enums quizzes
-* Completed 4 string quizzes
-* Start to learn crate and modules
-* Completed 1 module quizze
+* Completed 3 `enums` quizzes
+* Completed 4 `string` quizzes
+* Start to learn `crate and modules`
+* Completed 1 `module` quiz
 
 ## 2023-04-01
 
-* Learned 5 crates sections
-* Completed 2 module quizzes
-* Completed 3 hashmap quizzes
+* Learned 5 `crates` sections
+* Completed 2 `module` quizzes
+* Completed 3 `hashmap` quizzes
 
 ## 2023-04-02
 
-* Completed quiz2
-* Completed 3 options quizzes
-* Learn error handling chapter
-* Completed 3 error handling quizzes
+* Completed `quiz2`
+* Completed 3 `options` quizzes
+* Learn `error handling` chapter
+* Completed 3 `error handling` quizzes
 
 ## 2023-04-03
 
-* Completed 3 left error handling quizzes
-* Completed 1 generics quiz
+* Completed 3 left `error handling` quizzes
+* Completed 1 `generics` quiz
 
 ## 2023-04-04
 
-* Learned generics
-* Learned trait
-* Completed 2 generics quiz
+* Learned `generics`
+* Learned `traits`
+* Completed 2 `generics` quiz
 
 ## 2023-04-05
 
-* Learned generics
-* Learned trait
-* Completed 5 traits quizzes
-* Completed quiz3
-* Learned How to Write Tests
+* Learned `generics`
+* Learned `traits`
+* Completed 5 `traits` quizzes
+* Completed `quiz3`
+* Learned `How to Write Tests`
+* Learned `Validating References with Lifetimes`
 
 ## 2023-04-05
 
-* Learned Chapter:Writing Automated Tests
-    * Learned How to Write Tests
-    * Learned Controlling How Tests Are Run
-    * Learned Test Organization
-* Completed 3 tests quizzes
+* Learned Chapter: `Writing Automated Tests`
+    * Learned `How to Write Tests`
+    * Learned `Controlling How Tests Are Run`
+    * Learned `Test Organization`
+* Completed 3 `tests` quizzes
+* Completed 3 `lifetime` quizzes
