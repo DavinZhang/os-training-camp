@@ -162,3 +162,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
     * Learned How to Write Tests
     * Learned Controlling How Tests Are Run
     * Learned Test Organization
+* Completed 3 tests quizzes
