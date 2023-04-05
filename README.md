@@ -154,4 +154,11 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learned trait
 * Completed 5 traits quizzes
 * Completed quiz3
+* Learned How to Write Tests
 
+## 2023-04-05
+
+* Learned Chapter:Writing Automated Tests
+    * Learned How to Write Tests
+    * Learned Controlling How Tests Are Run
+    * Learned Test Organization
