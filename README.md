@@ -152,4 +152,5 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned generics
 * Learned trait
+* Completed 5 traits quizzes
 
