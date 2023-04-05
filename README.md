@@ -164,3 +164,5 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
     * Learned `Test Organization`
 * Completed 3 `tests` quizzes
 * Completed 3 `lifetime` quizzes
+* Learned 13.2 `iterator`
+* Completed 1 `iterator` quiz
