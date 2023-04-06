@@ -166,3 +166,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Completed 3 `lifetime` quizzes
 * Learned 13.2 `iterator`
 * Completed 1 `iterator` quiz
+
+## 2023-04-07
+
+* Learned `Accepting Command Line Arguments`
