@@ -170,3 +170,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-07
 
 * Learned `Accepting Command Line Arguments`
+* Learned `Reading a File`
