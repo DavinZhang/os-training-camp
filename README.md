@@ -171,3 +171,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned `Accepting Command Line Arguments`
 * Learned `Reading a File`
+* Learned `Refactoring to Improve Modularity and Error Handling`
