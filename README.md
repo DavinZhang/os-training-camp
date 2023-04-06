@@ -156,7 +156,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learned `How to Write Tests`
 * Learned `Validating References with Lifetimes`
 
-## 2023-04-05
+## 2023-04-06
 
 * Learned Chapter: `Writing Automated Tests`
     * Learned `How to Write Tests`
