@@ -174,3 +174,8 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learned `Refactoring to Improve Modularity and Error Handling`
 * Learned to write an I/O project`12.4` `12.5` `12.6`
 * Learned Functional Programming Capabilities`13.1`、`13.2`、`13.3`、`13.4`
+* Completed 1 `iterator` quiz
+
+## 2023-04-08
+
+* Completed 1 `iterator3` quiz
