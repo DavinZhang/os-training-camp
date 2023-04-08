@@ -179,3 +179,9 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-08
 
 * Completed `iterator3`、`iterator4`、`iterator5` quizzes
+* Learned Chapter about `Cargo`
+    * Learned `Customizing Builds with Release Profiles`
+    * Learned `Publishing a Crate to Crates.io`
+    * Learned `Cargo Workspaces`
+    * Learned `Installing Binaries with cargo install`
+    * Learned `Extending Cargo with Custom Commands`
