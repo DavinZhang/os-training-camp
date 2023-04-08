@@ -178,4 +178,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 ## 2023-04-08
 
-* Completed `iterator3`、`iterator4` quizzes
+* Completed `iterator3`、`iterator4`、`iterator5` quizzes
