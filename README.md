@@ -190,4 +190,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned `Using Box<T> to Point to Data on the Heap`
 * Completed `box1` quiz
-* 
+
+## 2023-04-10
+
+* Learned `Treating Smart Pointers Like Regular References with the Deref Trait`
