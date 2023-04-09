@@ -185,3 +185,9 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
     * Learned `Cargo Workspaces`
     * Learned `Installing Binaries with cargo install`
     * Learned `Extending Cargo with Custom Commands`
+
+## 2023-04-09
+
+* Learned `Using Box<T> to Point to Data on the Heap`
+* Completed `box1` quiz
+* 
