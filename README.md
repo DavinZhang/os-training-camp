@@ -194,3 +194,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-10
 
 * Learned `Treating Smart Pointers Like Regular References with the Deref Trait`
+
+## 2023-04-11
+
+* Learned `Running Code on Cleanup with the Drop Trait`
