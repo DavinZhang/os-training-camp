@@ -198,3 +198,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-11
 
 * Learned `Running Code on Cleanup with the Drop Trait`
+* Learned `Rc<T>, the Reference Counted Smart Pointer`
