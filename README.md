@@ -203,3 +203,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-12
 
 * Learned `RefCell<T> and the Interior Mutability Pattern`
+* Learned `Reference Cycles Can Leak Memory`
