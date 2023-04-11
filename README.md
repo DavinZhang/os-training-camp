@@ -199,3 +199,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned `Running Code on Cleanup with the Drop Trait`
 * Learned `Rc<T>, the Reference Counted Smart Pointer`
+
+## 2023-04-12
+
+* Learned `RefCell<T> and the Interior Mutability Pattern`
