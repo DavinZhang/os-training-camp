@@ -216,3 +216,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learned `Object-Oriented Programming Features of Rust`
     * Learned `Characteristics of Object-Oriented Languages`
     * Learned `Using Trait Objects That Allow for Values of Different Types`
+    * Leanred `Implementing an Object-Oriented Design Pattern`
