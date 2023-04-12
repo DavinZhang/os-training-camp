@@ -220,3 +220,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Completed `arcs1.rs` quiz
 * Completed `rc1.rs` quiz
 * Completed `cow1.rs` quiz
+* Completed 3 `threads` quizzes
