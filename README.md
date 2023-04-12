@@ -207,3 +207,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learned `Fearless Concurrency`
     * Learned `Using Threads to Run Code Simultaneously`
     * Learned `Using Message Passing to Transfer Data Between Threads`
+    * Learned `Shared-State Concurrency`
