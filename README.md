@@ -204,3 +204,6 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned `RefCell<T> and the Interior Mutability Pattern`
 * Learned `Reference Cycles Can Leak Memory`
+* Learned `Fearless Concurrency`
+    * Learned `Using Threads to Run Code Simultaneously`
+    * Learned `Using Message Passing to Transfer Data Between Threads`
