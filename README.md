@@ -222,3 +222,9 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Completed `cow1.rs` quiz
 * Completed 3 `threads` quizzes
 * Completed 1 `macro` quiz
+
+## 2023-04-14
+
+* Learned `Patterns and Matching`
+    * Learned `All the Places Patterns Can Be Used`
+
