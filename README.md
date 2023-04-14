@@ -228,5 +228,4 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Learned `Patterns and Matching`
     * Learned `All the Places Patterns Can Be Used`
     * Learned `Refutability: Whether a Pattern Might Fail to Match`
-    * 
-
+    * Learned `Pattern Syntax`
