@@ -229,3 +229,9 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
     * Learned `All the Places Patterns Can Be Used`
     * Learned `Refutability: Whether a Pattern Might Fail to Match`
     * Learned `Pattern Syntax`
+
+## 2023-04-15
+
+* Learned `Advanced Features`
+    * Learned `Unsafe Rust`
+    * 
