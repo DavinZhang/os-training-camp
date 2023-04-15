@@ -234,4 +234,7 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 * Learned `Advanced Features`
     * Learned `Unsafe Rust`
-    * 
+    * Learned `Advanced Traits`
+    * Learned `Advanced Types`
+    * Learned `Advanced Functions and Closures`
+    * Learned `Macros`
