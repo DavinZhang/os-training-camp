@@ -243,3 +243,5 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 ## 2023-04-16
 
 * Completed 3 clippy quizzes
+* Completed 5 `conversions` quizzes
+* RustLings Done~
