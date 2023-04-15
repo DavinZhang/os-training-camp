@@ -245,3 +245,10 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 * Completed 3 clippy quizzes
 * Completed 5 `conversions` quizzes
 * RustLings Done~
+
+# rcore Learning
+
+## 2023-04-16
+
+* set up `Build and Run` enviroment follow `https://github.com/LearningOS/2023s-rcore-DavinZhang`
+* Try to execute `make run` on local laptop
