@@ -238,3 +238,8 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
     * Learned `Advanced Types`
     * Learned `Advanced Functions and Closures`
     * Learned `Macros`
+    * Completed 3 `Macro` quizzes
+
+## 2023-04-16
+
+* Completed 3 clippy quizzes
