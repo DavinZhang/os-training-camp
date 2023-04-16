@@ -1,7 +1,7 @@
 # os-training-camp
 
 ## What is this repo aimed to?
-This repo is aimed to recording the OS learning process, The OS is based on Rust.
+This repo is aimed to record the OS learning process, The OS is based on Rust.
 
 ## Where is the learning discussion link
 
@@ -248,7 +248,15 @@ curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | 
 
 # rcore Learning
 
+*   [实验文档](https://learningos.github.io/rCore-Tutorial-Guide-2023S/)
+*   [API文档](https://github.com/LearningOS/rCore-Tutorial-Guide-2023S/#os-api-docs-of-rcore-tutorial-code-2022s)
+*   [实验代码](https://github.com/LearningOS/rCore-Tutorial-Code-2023S)
+*   [测试用例](https://github.com/LearningOS/rCore-Tutorial-Test-2023S)
+
+## [](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-2.md#ucore%E5%92%8Crcore%E5%AE%9E%E9%AA%8C%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91)[uCore和rCore实验讲解视频](https://www.yuque.com/docs/share/1b5b9260-8a80-4427-a612-78ec72b37e5f)
+
 ## 2023-04-16
 
 * set up `Build and Run` enviroment follow `https://github.com/LearningOS/2023s-rcore-DavinZhang`
 * Try to execute `make run` on local laptop
+
