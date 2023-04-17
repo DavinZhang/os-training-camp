@@ -319,3 +319,7 @@ Notice: $ID is from \[3,4,5,6,8\]
 * 阅读`rCore-Tutorial-Guide-2023S`引言部分
     * 阅读`应用程序执行环境与平台支持`
     * 阅读`移除标准库依赖`
+
+## 2023-04-18
+
+* Learned RCore on previous video `https://os2edu.cn/course/106/replay/3772`
