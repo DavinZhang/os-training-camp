@@ -314,3 +314,8 @@ Notice: $ID is from \[3,4,5,6,8\]
 * set up `Build and Run` enviroment follow `https://github.com/LearningOS/2023s-rcore-DavinZhang`
 * Try to execute `make run` on local laptop
 
+## 2023-04-17
+
+* 阅读`rCore-Tutorial-Guide-2023S`引言部分
+    * 阅读`应用程序执行环境与平台支持`
+    * 阅读`移除标准库依赖`
