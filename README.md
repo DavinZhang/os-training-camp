@@ -326,4 +326,4 @@ Notice: $ID is from \[3,4,5,6,8\]
 
 ## 2023-04-19
 
-*
+* Start to learn RCore on `https://os2edu.cn/course/108/replay/5594`
