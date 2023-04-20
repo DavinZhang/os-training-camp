@@ -331,3 +331,7 @@ Notice: $ID is from \[3,4,5,6,8\]
 ## 2023-04-20
 
 * Learned RCore second lesson
+
+## 2023-04-21
+
+* Practiced `Chapter 1` of `rCore-Tutorial-Guide-2023S`
